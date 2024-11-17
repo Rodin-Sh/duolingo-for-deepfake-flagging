@@ -1,1 +1,1 @@
-# duolingo-for-deepfake-flagging
+# Duolingo for Learning to Flag Deepfake
